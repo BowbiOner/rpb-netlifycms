@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Whats the Story? My name is Rory
 image: /img/invert-rpbworld.jpg
 heading: Whats the Story? My name is Rory
-subheading: Whats the Story? My name is Rory
+subheading: Web Developer, IT Man & Tech Enthusiast
 mainpitch:
   title: Why Me?
   description: >-
@@ -12,10 +12,7 @@ mainpitch:
     covered. We were not limited to just programming / web development with
     study a wide range of digital media production techniques.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    A wide range of topics were covered: HTML, CSS & JavaScript, PHP & MySQL, Advanced Javascript & NoSQL, Computer Hardware & OS Architecture, Digital Media Entrepreneurship, Adobe Master Suite, 3DS MAXX & Java & Android Development.
 intro:
   blurbs:
     - image: /img/coffee.png
