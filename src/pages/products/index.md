@@ -1,17 +1,16 @@
 ---
-templateKey: 'product-page'
-path: /products
+templateKey: product-page
 title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+image: /img/rpb_Profile.jpg
+heading: Some Pieces of Work by Yours Truly
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  A tech enthusiast for the past 19 years, from the original gameboy, crt
+  monitors, loading Doom from a floppy disk to now trying to produce more
+  digital media that will hopefully inspire someone to become a creator. Follow
+  the journey with me if you will.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/dbiketracker.jpg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
@@ -99,3 +98,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
